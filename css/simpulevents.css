@@ -1,0 +1,5 @@
+.simpul-calendar-cell {
+	position: absolute;
+	display: none;
+	z-index: 9000;
+}
